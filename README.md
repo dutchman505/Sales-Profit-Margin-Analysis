@@ -10,7 +10,7 @@ This project provides a comprehensive data-driven analysis of corporate sales, r
 
 ---
 
-## Dashboard Overview & Pages
+##  Dashboard Overview & Pages
 
 ### 1. Sales and Profit Analysis (Page 1)
 The primary macro-level overview tracking overall business performance[cite: 6]:
