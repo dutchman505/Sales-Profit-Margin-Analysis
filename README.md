@@ -2,7 +2,7 @@
 
 This project provides a comprehensive data-driven analysis of corporate sales, revenue, and profit margins, while evaluating performance across managers and product categories using Power BI[cite: 5, 6].
 
-## 📁 Project Structure
+## Project Structure
 - **Sales & Profit Analytics.pbix**: The core Power BI file containing data models, relationships, custom DAX measures, and interactive dashboards[cite: 7].
 - **dashboard/**: Visual exports and screenshots of the project:
   - `sales_overview.png`: Overview of total sales, annual growth, monthly trends, gender breakdown, and customer segment distribution[cite: 6].
@@ -10,7 +10,7 @@ This project provides a comprehensive data-driven analysis of corporate sales, r
 
 ---
 
-## 📊 Dashboard Overview & Pages
+## Dashboard Overview & Pages
 
 ### 1. Sales and Profit Analysis (Page 1)
 The primary macro-level overview tracking overall business performance[cite: 6]:
@@ -27,7 +27,7 @@ An in-depth profitability analysis focusing on individual managers and product c
 
 ---
 
-## 🛠️ Tech Stack & Custom DAX Measures
+## Tech Stack & Custom DAX Measures
 Technologies and custom formulas used within the project[cite: 7]:
 - **Power BI Desktop & Power Query**: Data extraction, transformation, cleaning, and modeling (ETL).
 - **Core DAX Measures**[cite: 7]:
@@ -40,7 +40,7 @@ Technologies and custom formulas used within the project[cite: 7]:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the **`Sales & Profit Analytics.pbix`** file from the repository[cite: 7].
 2. Open the file using **Power BI Desktop**[cite: 7].
 3. Use the top filter panels to interactively explore data across different years, categories, and regions[cite: 5, 6].
